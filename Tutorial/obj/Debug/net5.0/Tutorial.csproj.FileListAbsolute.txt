@@ -1,0 +1,5 @@
+C:\Users\Lina\Desktop\Tutorial\obj\Debug\net5.0\Tutorial.csprojAssemblyReference.cache
+C:\Users\Lina\Desktop\Tutorial\obj\Debug\net5.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lina\Desktop\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\Lina\Desktop\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfo.cs
+C:\Users\Lina\Desktop\Tutorial\obj\Debug\net5.0\Tutorial.csproj.CoreCompileInputs.cache
